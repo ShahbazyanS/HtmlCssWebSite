@@ -1,0 +1,229 @@
+body {
+
+    background-image: url("../img/b_body.jpg");
+}
+
+.main {
+    width: 1159px;
+    height: auto;
+    border: 1px;
+    margin-left: 70px;
+    margin-top: -8px;
+    background-image: url("../img/b_coffee.jpg");
+}
+
+.topPart {
+    width: 100%;
+    height: 15px;
+    background-image: url("../img/top_line.png");
+
+}
+
+.mainBorder {
+    width: 79%;
+    height: 100%;
+    border: 1px;
+    margin-left: 132px;
+
+}
+
+.menu img {
+    display: inline;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.a {
+    margin-top: 15px;
+}
+
+.a img {
+    margin-left: 39px;
+}
+
+.bord {
+    width: 100%;
+    height: 305px;
+    background-image: url("../img/border.png");
+    background-size: 100% 305px;
+    margin-top: 15px;
+
+}
+
+.bord ul li {
+    display: inline-block;
+    margin-top: 22px;
+}
+
+.bord ul li img {
+    display: block;
+}
+
+.b {
+    width: 100%;
+    margin-top: 20px;
+    margin-left: -46px;
+}
+
+.b ul li {
+    display: inline;
+    margin-left: 55px;
+}
+
+.thumb {
+    width: 280px;
+}
+
+.thumb1 {
+    width: 280px;
+}
+
+.left {
+    margin-left: -25px;
+}
+
+.text {
+    display: -webkit-box;
+    width: 27%;
+    margin-left: 65px;
+    margin-top: -20px;
+}
+
+.text span {
+    color: forestgreen;
+    text-decoration: underline;
+}
+
+.content {
+    margin-top: -62px;
+    width: 100%;
+    height: 80px;
+    background-image: url("../img/b_content.png");
+}
+
+.end {
+    margin-left: 65px;
+    margin-top: 15px;
+}
+
+.end ul li {
+    list-style: none;
+}
+
+.end ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.menuLine {
+    background-image: url("../img/b_thumbs.png");
+    width: 100%;
+    height: 1px;
+    margin-top: 15px;
+}
+
+span {
+    color: forestgreen;
+    text-decoration: underline;
+}
+
+.aboutMeMain ul {
+    display: flex;
+    list-style: none;
+}
+
+.aboutMeMain ul li {
+    margin-top: 23px;
+}
+
+.e ul {
+    display: flex;
+    list-style: none;
+}
+
+.line {
+    background-image: url("../img/b_thumbs.png");
+    width: 100%;
+    height: 1px;
+    margin-top: 15px;
+
+}
+
+.c ul {
+    display: -webkit-box;
+    margin-top: 40px;
+    list-style: none;
+
+}
+
+.s ul {
+    display: flex;
+    list-style: none;
+}
+
+.s1 {
+    width: 33%;
+    height: 45px;
+}
+
+.s1 ul {
+    display: flex;
+}
+
+.s2 ul {
+    display: flex;
+    list-style: none;
+    margin-left: -35px;
+    margin-top: -45px
+
+}
+
+.service {
+    height: 100px;
+}
+
+.service ul {
+    display: flex;
+    list-style: none;
+    margin-left: -150px;
+}
+
+.service ul li {
+    margin-left: 115px;
+
+}
+
+.fin ul {
+    display: flex;
+    list-style: none;
+    margin-top: -60px;
+    margin-left: -90px;
+}
+
+.fin ul li {
+    margin-left: 60px;
+}
+
+.v ul {
+    display: flex;
+    list-style: none;
+}
+
+.g ul {
+    display: flex;
+    list-style: none;
+    margin-left: -26px;
+}
+
+.g ul li {
+    margin-left: 25px;
+}
+
+.p {
+    height: 90px;
+}
+
+.p ul li {
+    display: inline;
+    margin-left: 278px;
+}
